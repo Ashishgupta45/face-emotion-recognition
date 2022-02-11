@@ -39,6 +39,8 @@ Technology and tools wise this project covers,
 
 --------------------------------
 
+# App Link:- https://share.streamlit.io/ashishgupta45/face-emotion-recognition/main
+
 ## Technologies Used:
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
