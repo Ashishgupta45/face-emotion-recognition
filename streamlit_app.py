@@ -57,7 +57,7 @@ def main():
     activiteis = ["Home", "Webcam Emotion Detection", "About"]
     choice = st.sidebar.selectbox("Select Activity", activiteis)
     st.sidebar.markdown(
-        """ Developed by Rohan Jagadale""")
+        """ Developed by Ashish Gupta""")
     if choice == "Home":
         html_temp_home1 = """<div style="background-color:#6D7B8D;padding:10px">
                                             <h4 style="color:white;text-align:center;">
