@@ -1,4 +1,4 @@
-# face-emotion-recognition
+# face-emotion-recognition (train_accuracy: 73% , val_accuracy: 65%)
 
 Computer vision (CV) is the field of study that helps computers to study using different techniques and methods so that it can capture what exists in an image or a video. There are a large number of applications of computer vision that are present today like facial recognition, driverless cars, medical diagnostics, etc. We will discuss one of the interesting applications of CV that is Emotion Detection through facial expressions. CV can recognize and tell you what your emotion is by just looking at your facial expressions. It can detect whether you are angry, happy, sad, etc.
 
