@@ -1,9 +1,3 @@
-pip install cv2
-pip install streamlit
-pip install tensorflow
-pip install keras
-pip install streamlit_webrtc
-
 import numpy as np
 import cv2
 import streamlit as st
