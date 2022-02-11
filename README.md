@@ -17,3 +17,30 @@ We will solve the above-mentioned challenge by applying deep learning algorithms
 
 The name of the data set is fer2013 which is an open-source data set that was made publicly available for a Kaggle competition. It contains 48 X 48-pixel grayscale images of the face. There are seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral) present in the data. The CSV file contains two columns that are emotion that contains numeric code from 0-6 and a pixel column that includes a string surrounded in quotes for each image.
 dataset link :-  https://www.kaggle.com/deadskull7/fer2013
+
+
+## Overview:
+
+This dataset contains information on emotion, pixels & Usage. recognizing your emotions just looking at your facial expressions.
+
+Technology and tools wise this project covers,
+
+1. cv2
+ 
+3. Python
+
+3. Numpy and Pandas 
+
+4. Data visualization
+
+5. Tensorflow and keras
+
+6. Jupiter Notebook
+
+--------------------------------
+
+## Technologies Used:
+
+![](https://forthebadge.com/images/badges/made-with-python.svg)
+
+[<img target="_blank" src="https://user-images.githubusercontent.com/32620288/139657460-40ef4562-76bd-43f5-bbca-47b6bd29863e.png" width=100>](https://numpy.org)    [<img target="_blank" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/450px-Pandas_logo.svg.png" width=150>](https://pandas.pydata.org)  [<img target="_blank" src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" width=150>](https://seaborn.pydata.org) [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=170>](https://matplotlib.org)   [<img target="_blank" src="https://user-images.githubusercontent.com/32620288/137518674-f36c5ad3-3d64-4c7a-a07c-53f247750394.png" width=170>](https://colab.research.google.com/)
