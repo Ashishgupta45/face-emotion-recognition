@@ -39,8 +39,6 @@ Technology and tools wise this project covers,
 
 --------------------------------
 
-# App Link:- https://share.streamlit.io/ashishgupta45/face-emotion-recognition/main
-
 ## Technologies Used:
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
@@ -52,3 +50,6 @@ Technology and tools wise this project covers,
 
 [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=170>](https://matplotlib.org)  
 [<img target="_blank" src="https://user-images.githubusercontent.com/32620288/137518674-f36c5ad3-3d64-4c7a-a07c-53f247750394.png" width=170>](https://colab.research.google.com/)
+
+
+## App Link:- https://share.streamlit.io/ashishgupta45/face-emotion-recognition/main
