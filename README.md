@@ -86,6 +86,6 @@ Technology and tools wise this project covers,
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h2> App Link:-</h2>
-![](https://share.streamlit.io/ashishgupta45/face-emotion-recognition/main)
+https://share.streamlit.io/ashishgupta45/face-emotion-recognition/main
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
