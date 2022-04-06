@@ -1,10 +1,23 @@
-# face-emotion-recognition (train_accuracy: 73% , val_accuracy: 65%)
+<h1 align="center"> face-emotion-recognition </h1>
+<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter School </a> </h5>
+
+<p align="center"> 
+  <img src="https://eyeq.tech/wp-content/themes/eyeq-theme/retails/img/emotion.gif" alt="face emotion.gif" width="80px" height="80px">
+</p>
+
+<p>Built an app on Streamlit that detects the attentiveness of the online classroom
+using live video from the webcam and real-time aggregated feedback to the
+instructors about the class.</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 Computer vision (CV) is the field of study that helps computers to study using different techniques and methods so that it can capture what exists in an image or a video. There are a large number of applications of computer vision that are present today like facial recognition, driverless cars, medical diagnostics, etc. We will discuss one of the interesting applications of CV that is Emotion Detection through facial expressions. CV can recognize and tell you what your emotion is by just looking at your facial expressions. It can detect whether you are angry, happy, sad, etc.
 
 <img target="_blank" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdyI6Eke8iwAdPxyK34x7k2cpMuHmc0gp6nw&usqp=CAU.jpg" width=1000; height=300>
 
-## Problem Statement
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> :book: Problem Statement</h2>
 
 The Indian education landscape has been undergoing rapid changes for the past 10 years owing to the advancement of web-based learning services, specifically, eLearning platforms.
 
@@ -14,13 +27,16 @@ In a physical classroom during a lecturing teacher can see the faces and assess 
 
 We will solve the above-mentioned challenge by applying deep learning algorithms to live video data. The solution to this problem is by recognizing facial emotions.
 
-## The Dataset
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> The Dataset</h2>
 
 The name of the data set is fer2013 which is an open-source data set that was made publicly available for a Kaggle competition. It contains 48 X 48-pixel grayscale images of the face. There are seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral) present in the data. The CSV file contains two columns that are emotion that contains numeric code from 0-6 and a pixel column that includes a string surrounded in quotes for each image.
 dataset link :-  https://www.kaggle.com/deadskull7/fer2013
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## Overview:
+<h2> Overview:</h2>
 
 This dataset contains information on emotion, pixels & Usage. recognizing your emotions just looking at your facial expressions.
 
@@ -38,9 +54,24 @@ Technology and tools wise this project covers,
 
 6. Jupiter Notebook
 
---------------------------------
 
-## Technologies Used:
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<!-- CREDITS -->
+<h2 id="credits"> :scroll: Credits</h2>
+
+< Ashish Gupta > | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast | Statistic Student | Storyteller
+
+<p> <i> Contact me for Data Science Project Collaborations</i></p>
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-ashishgupta45?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashishgupta45)
+[![GitHub Badge](https://img.shields.io/badge/GitHub-Ashishgupta45?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ashishgupta45)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/almabetter)
+
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2> Technologies Used:</h2>
 
 ![](https://forthebadge.com/images/badges/made-with-python.svg)
 
@@ -52,5 +83,9 @@ Technology and tools wise this project covers,
 [<img target="_blank" src="https://matplotlib.org/_static/logo2_compressed.svg" width=170>](https://matplotlib.org)  
 [<img target="_blank" src="https://user-images.githubusercontent.com/32620288/137518674-f36c5ad3-3d64-4c7a-a07c-53f247750394.png" width=170>](https://colab.research.google.com/)
 
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## App Link:- https://share.streamlit.io/ashishgupta45/face-emotion-recognition/main
+<h2> App Link:-</h2>
+![](https://share.streamlit.io/ashishgupta45/face-emotion-recognition/main)
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
